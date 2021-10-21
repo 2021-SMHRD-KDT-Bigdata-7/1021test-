@@ -29,7 +29,6 @@ public class MusicPlayer {
 				System.out.print("½Ã°£ : ");
 				int playTime = sc.nextInt();
 				
-				
 			}else if (a == 2) {
 				
 			}else if (a == 3) {
